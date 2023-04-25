@@ -9,25 +9,18 @@ Certaines zones seront également accessibles uniquement en payant pour les dév
 ### Objectifs
 * Découvrir le moteur de jeu Unity
 * Concevoir un jeu complet
-* Réaliser une animation procédurale
 
 ### Contraintes 
 * Apprendre à utiliser le C# et le paradigme de la programmation orienté objet
-* Maitriser la cinématique inverse
 * Devoir gérer toutes les facettes du développement d'un jeu (Game design, gameplay)
 
 ### Membres
 
  **SIDKI** Noureddine
-& **HARZELLI** Youssef
 
 ### Encadrant
 
 Alexandre Meyer
-
-## Prérequis pour installation
-Unity version **2021.3.11f1 Personal** 
-*(Pas besoin de le télécharger pour lancer le jeu, il s'agit de la version utilisée en développement)*
 
 ## Comment lancer le jeu
 
@@ -62,6 +55,3 @@ Unity version **2021.3.11f1 Personal**
 ### Le terrain de jeu
 ![Image du terrain.](/Img/map.png "Image du terrain")
 
-## Annexes
-### Diagramme de Gantt
-![Diagramme de Gantt.](/Img/diagramme.png "Diagramme de Gantt")
