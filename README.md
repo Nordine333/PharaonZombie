@@ -14,7 +14,7 @@ Certaines zones seront également accessibles uniquement en payant pour les dév
 * Apprendre à utiliser le C# et le paradigme de la programmation orienté objet
 * Devoir gérer toutes les facettes du développement d'un jeu (Game design, gameplay)
 
-### Membres
+### Étudiant
 
  **SIDKI** Noureddine
 
