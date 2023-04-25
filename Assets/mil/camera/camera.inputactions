@@ -1,0 +1,66 @@
+{
+    "name": "camera",
+    "maps": [
+        {
+            "name": "mouse",
+            "id": "b6f0cb3f-7c7a-4c40-876e-65fd44a2d548",
+            "actions": [
+                {
+                    "name": "Souris",
+                    "type": "Value",
+                    "id": "7628f0b2-6191-4b5a-910f-63e47f2b7a88",
+                    "expectedControlType": "Vector2",
+                    "processors": "",
+                    "interactions": "",
+                    "initialStateCheck": true
+                },
+                {
+                    "name": "VueSwitch",
+                    "type": "Button",
+                    "id": "e71f0786-6a33-44f3-8e0f-9ea21d080533",
+                    "expectedControlType": "Button",
+                    "processors": "",
+                    "interactions": "",
+                    "initialStateCheck": false
+                }
+            ],
+            "bindings": [
+                {
+                    "name": "",
+                    "id": "01ea469c-c6a3-44d7-9d40-a34804a12df5",
+                    "path": "<Mouse>/delta",
+                    "interactions": "",
+                    "processors": "",
+                    "groups": "mouse",
+                    "action": "Souris",
+                    "isComposite": false,
+                    "isPartOfComposite": false
+                },
+                {
+                    "name": "",
+                    "id": "99081edf-5bb7-4c8e-a308-60b7540ed3ef",
+                    "path": "<Mouse>/rightButton",
+                    "interactions": "",
+                    "processors": "",
+                    "groups": "mouse",
+                    "action": "VueSwitch",
+                    "isComposite": false,
+                    "isPartOfComposite": false
+                }
+            ]
+        }
+    ],
+    "controlSchemes": [
+        {
+            "name": "mouse",
+            "bindingGroup": "mouse",
+            "devices": [
+                {
+                    "devicePath": "<Mouse>",
+                    "isOptional": false,
+                    "isOR": false
+                }
+            ]
+        }
+    ]
+}

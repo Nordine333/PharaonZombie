@@ -1,0 +1,34 @@
+{
+    "name": "menuEchap",
+    "maps": [
+        {
+            "name": "echapMenu",
+            "id": "0adef890-013a-4ccc-a96e-d162a6edbb3a",
+            "actions": [
+                {
+                    "name": "Echap",
+                    "type": "Button",
+                    "id": "580b3ed4-fdc4-4a5a-b16d-b8a1e27d7c16",
+                    "expectedControlType": "Button",
+                    "processors": "",
+                    "interactions": "",
+                    "initialStateCheck": false
+                }
+            ],
+            "bindings": [
+                {
+                    "name": "",
+                    "id": "fb894703-432e-473c-843e-2fcb45cc5d50",
+                    "path": "<Keyboard>/escape",
+                    "interactions": "",
+                    "processors": "",
+                    "groups": "",
+                    "action": "Echap",
+                    "isComposite": false,
+                    "isPartOfComposite": false
+                }
+            ]
+        }
+    ],
+    "controlSchemes": []
+}
