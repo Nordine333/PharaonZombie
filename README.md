@@ -32,7 +32,6 @@ Alexandre Meyer
 
 * Inspiration : Call of Duty Zombies
 * Animations : [Mixamo.com](http://mixamo.com/)
-* Modèles 3D : [P3dm.ru](http://p3dm.ru/)
 * Modèles 3D : [23 Space Robots and Counting...](https://assetstore.unity.com/packages/3d/environments/free-low-poly-desert-pack-106709)
 * Modèles 3D : [VK GameDev](https://assetstore.unity.com/packages/3d/environments/historic/historic-environment-142116)
 * Modèles 3D : [Ink Phantom](https://assetstore.unity.com/packages/3d/environments/historic/polylised-medieval-desert-city-94557)
